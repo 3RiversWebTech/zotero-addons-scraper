@@ -1,0 +1,20 @@
+{
+  "last_checked": "2026-11-23T12:49:13.605886+00:00",
+  "checked_releases": [
+    {
+      "tag": "v0.7.2",
+      "published_at": "2026-11-23T08:45:56Z",
+      "xpi_asset_id": 782218223,
+      "xpi_name": "zotero-turbo-0.7.2.xpi",
+      "xpi_download_url": "https://github.com/HappyAny/zotero-turbo/releases/download/v0.7.2/zotero-turbo-0.7.2.xpi",
+      "addon_id": "zotero-turbo@happyany.github.io",
+      "addon_name": "Zotero Turbo",
+      "addon_version": "0.7.2",
+      "addon_description": "All-in-one native performance suite for Zotero: MuPDF 1.28.0 in-process PDF & thumbnail renderer (with dark/sepia LUT & HiDPI DPR cap), MuPDF full-text extraction & reader text layer, smart background tab hibernation, multi-threaded native file scanner & search cache, citation/CSL acceleration, SQLite tuning, and auto-WebP note image compression.",
+      "min_zotero_version": "7.0",
+      "max_zotero_version": "10.*",
+      "update_url": "https://raw.githubusercontent.com/HappyAny/zotero-turbo/main/updates.json",
+      "parse_success": true
+    }
+  ]
+}
